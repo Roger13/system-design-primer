@@ -1506,7 +1506,7 @@ There are four qualities of a RESTful interface:
 * **Identify resources (URI in HTTP)** - use the same URI regardless of any operation.
 * **Change with representations (Verbs in HTTP)** - use verbs, headers, and body.
 * **Self-descriptive error message (status response in HTTP)** - Use status codes, don't reinvent the wheel.
-* **[HATEOAS](http://restcookbook.com/Basics/hateoas/) (HTML interface for HTTP)** - your web service should be fully accessible in a browser.
+* **[HATEOAS](https://en.wikipedia.org/wiki/HATEOAS) (HTML interface for HTTP)** - your web service should be fully accessible in a browser.
 
 Sample REST calls:
 
